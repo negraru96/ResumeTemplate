@@ -250,8 +250,9 @@ body{
   font-weight: 400;
   font-size: 200%;
   font-family: 'Abel', sans-serif;
-  margin-left: 7.5%;
+  margin-left: 2%;
   margin-top: 2%;
+  text-align: left;
   text-decoration: underline;
 }
 .freesummary{
@@ -261,7 +262,44 @@ body{
   font-family: 'Abel', sans-serif;
   margin: 2%;
   margin-top: 15%;
-  text-align: center;
+  text-align: left;
+}
+ul{
+  list-style-type: square;
+}
+li{
+  margin-left: -5%;
+  margin-top: -5%;
+}
+.a{
+  margin-left: -5%;
+  margin-top: -11%;
+}
+.b{
+ margin-top: -11%;
+}
+.bolda{
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+}
+.boldb{
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+  display: inline-block;
+  position: absolute;
+  margin-left: 2%;
+  margin-top: -10%;
+}
+.boldc{
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+  display: inline-block;
+  position: absolute;
+  margin-left: 2%;
+  margin-top: -10%;
 }
 .projects{
   display: inline-block;
@@ -270,7 +308,7 @@ body{
   font-weight: 400;
   font-size: 200%;
   font-family: 'Abel', sans-serif;
-  margin-left: 36%;
+  margin-left: 2%;
   margin-top: 2%;
   text-decoration: underline;
 }
@@ -281,5 +319,5 @@ body{
   font-family: 'Abel', sans-serif;
   margin: 2%;
   margin-top: 15%;
-  text-align: center;
+  text-align: left;
 }

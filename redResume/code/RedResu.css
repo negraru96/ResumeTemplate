@@ -152,7 +152,7 @@ body{
   height: 78.3%;
   width: 47.9%;
   margin-left: 51.5%;
-  opacity: 0.7;
+  opacity: 0.65;
 }
 .Summary{
   display: inline-block;
@@ -169,6 +169,7 @@ body{
   display: inline-block;
   color: black;
   font-weight: 400;
+  font-size: 18px;
   font-family: 'Abel', sans-serif;
   margin: 2%;
   margin-top: 17%;
@@ -189,6 +190,7 @@ body{
   display: inline-block;
   color: black;
   font-weight: 400;
+  font-size: 18px;
   font-family: 'Abel', sans-serif;
   margin: 2%;
   margin-top: 18%;
@@ -209,6 +211,7 @@ body{
   display: inline-block;
   color: black;
   font-weight: 400;
+  font-size: 18px;
   font-family: 'Abel', sans-serif;
   margin: 2%;
   margin-top: 18%;
@@ -221,6 +224,7 @@ body{
   font-weight: 400;
   font-size: 200%;
   font-family: 'Abel', sans-serif;
+  margin-top: 3%;
   margin-left: 7.5%;
   text-decoration: underline;
 }
@@ -230,7 +234,7 @@ body{
   font-weight: 400;
   font-family: 'Abel', sans-serif;
   margin: 2%;
-  margin-top: 15%;
+  margin-top: 28%;
   margin-left: 14%;
   text-align: center;
 }
@@ -242,6 +246,44 @@ body{
   width: 24.7%;
   left: 25.6%;
   top: 19.7%;
+}
+.bolda{
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+}
+.boldb{
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+  display: inline-block;
+  position: absolute;
+  margin-left: 2%;
+  margin-top: -10%;
+}
+.boldc{
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+  display: inline-block;
+  position: absolute;
+  margin-left: 2%;
+  margin-top: -10%;
+}
+ul{
+  list-style-type: square;
+}
+li{
+  margin-left: -5%;
+  margin-top: -5%;
+
+}
+.a{
+  margin-left: -5%;
+  margin-top: -11%;
+}
+.b{
+  margin-top: -11%;
 }
 .freelance{
   display: inline-block;
@@ -257,7 +299,8 @@ body{
 .freesummary{
   display: inline-block;
   color: black;
-  font-weight: 400;
+  font-weight: bolder;
+  font-size: 18px;
   font-family: 'Abel', sans-serif;
   margin: 2%;
   margin-top: 15%;
@@ -271,7 +314,6 @@ body{
   font-size: 200%;
   font-family: 'Abel', sans-serif;
   margin-left: 2%;
-  margin-top: 2%;
   text-decoration: underline;
 }
 .projsummary{
@@ -280,6 +322,6 @@ body{
   font-weight: 400;
   font-family: 'Abel', sans-serif;
   margin: 2%;
-  margin-top: 15%;
+  margin-top: 13%;
   text-align: left;
 }
