@@ -161,7 +161,7 @@ body{
   font-weight: 400;
   font-size: 200%;
   font-family: 'Abel', sans-serif;
-  margin-left: 8%;
+  margin-left: 4%;
   margin-top: 1%;
   text-decoration: underline;
 }
@@ -175,27 +175,6 @@ body{
   margin-top: 17%;
   text-align: center;
 }
-.Gear{
-  display: inline-block;
-  position: absolute;
-  color: black;
-  font-weight: 400;
-  font-size: 200%;
-  font-family: 'Abel', sans-serif;
-  margin-left: 4%;
-  margin-top: 1%;
-  text-decoration: underline;
-}
-.geartext{
-  display: inline-block;
-  color: black;
-  font-weight: 400;
-  font-size: 18px;
-  font-family: 'Abel', sans-serif;
-  margin: 2%;
-  margin-top: 18%;
-  text-align: center;
-}
 .Hobbies{
   display: inline-block;
   position: absolute;
@@ -203,7 +182,7 @@ body{
   font-weight: 400;
   font-size: 200%;
   font-family: 'Abel', sans-serif;
-  margin-left: 8.5%;
+  margin-left: 8%;
   margin-top: 1%;
   text-decoration: underline;
 }
@@ -259,7 +238,7 @@ body{
   display: inline-block;
   position: absolute;
   margin-left: 2%;
-  margin-top: -10%;
+  margin-top: -13%;
 }
 .boldc{
   font-weight: bolder;
@@ -268,22 +247,22 @@ body{
   display: inline-block;
   position: absolute;
   margin-left: 2%;
-  margin-top: -10%;
+  margin-top: -12%;
 }
 ul{
   list-style-type: square;
 }
 li{
   margin-left: -5%;
-  margin-top: -5%;
+  margin-top: -6%;
 
 }
 .a{
   margin-left: -5%;
-  margin-top: -11%;
+  margin-top: -17%;
 }
 .b{
-  margin-top: -11%;
+  margin-top: -15%;
 }
 .freelance{
   display: inline-block;
@@ -306,16 +285,6 @@ li{
   margin-top: 15%;
   text-align:left;
 }
-.projects{
-  display: inline-block;
-  position: absolute;
-  color: black;
-  font-weight: 400;
-  font-size: 200%;
-  font-family: 'Abel', sans-serif;
-  margin-left: 2%;
-  text-decoration: underline;
-}
 .projsummary{
   display: inline-block;
   color: black;
@@ -324,4 +293,39 @@ li{
   margin: 2%;
   margin-top: 13%;
   text-align: left;
+}
+.boldd{
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+  display: inline-block;
+  position: absolute;
+  margin-top: -14%;
+}
+.c{
+  margin-top: -21%;
+}
+.bolde{
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+  display: inline-block;
+  position: absolute;
+  margin-left: 2%;
+  margin-top: -11%;
+}
+.d{
+  margin-top: -15%;
+}
+.boldf{
+  font-weight: bolder;
+  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+  display: inline-block;
+  position: absolute;
+  margin-left: 2%;
+  margin-top: -6%;
+}
+.e{
+  margin-top: -9%;
 }
